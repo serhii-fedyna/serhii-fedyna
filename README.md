@@ -1,51 +1,59 @@
 # Serhii Fedyna
 
-Cybersecurity engineer and founder of NOYTRIX ecosystem.
+Cybersecurity engineer and founder of the NOYTRIX ecosystem.
 
-Focused on:
+## Focus Areas
+
 - Crypto cybersecurity
-- Threat intelligence systems
-- Scam detection infrastructure
+- Threat intelligence
+- Scam detection systems
 - AI-assisted security tools
 - Trading infrastructure
 - Security APIs
-- Automation systems
+- Browser protection systems
 
-## Main Projects
+---
 
-### NOYTRIX API
-Advanced crypto cybersecurity and threat intelligence API.
+## NOYTRIX Ecosystem
 
-Tech:
-- Python
-- FastAPI
-- AsyncIO
-- Security engines
-- Threat intelligence integrations
-- Wallet & contract analysis
+Production-focused infrastructure including:
 
-### NOYTRIX Security Ecosystem
-Infrastructure for:
-- Scam detection
-- Wallet verification
-- Smart contract analysis
-- Crypto threat monitoring
-- Community-driven security
-
-## Current Focus
-
-Building production-grade:
-- Security infrastructure
-- Crypto risk analysis systems
-- AI-enhanced security tools
+- ScamShield API
+- Threat intelligence systems
+- Wallet & smart contract analysis
 - Trading systems
-- Browser protection solutions
+- Telegram security assistant
+- Browser security tooling
+- Security-focused web infrastructure
+
+---
 
 ## Tech Stack
 
-Python • FastAPI • APIs • Automation • Security Systems • AI Tools • Crypto Infrastructure
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
+![Crypto](https://img.shields.io/badge/Crypto-111111?style=for-the-badge)
+![API](https://img.shields.io/badge/API-111111?style=for-the-badge)
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=serhii-fedyna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-fedyna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+---
 
 ## Philosophy
 
 Build real systems.  
 Focus on production architecture, usability and security.
+
+---
+
+## Main Public Repository
+
+- [NOYTRIX API](https://github.com/serhii-fedyna/noytrix-api)
