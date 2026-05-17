@@ -1,16 +1,51 @@
-## Hi there 👋
+# Serhii Fedyna
 
-<!--
-**serhii-fedyna/serhii-fedyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity engineer and founder of NOYTRIX ecosystem.
 
-Here are some ideas to get you started:
+Focused on:
+- Crypto cybersecurity
+- Threat intelligence systems
+- Scam detection infrastructure
+- AI-assisted security tools
+- Trading infrastructure
+- Security APIs
+- Automation systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Projects
+
+### NOYTRIX API
+Advanced crypto cybersecurity and threat intelligence API.
+
+Tech:
+- Python
+- FastAPI
+- AsyncIO
+- Security engines
+- Threat intelligence integrations
+- Wallet & contract analysis
+
+### NOYTRIX Security Ecosystem
+Infrastructure for:
+- Scam detection
+- Wallet verification
+- Smart contract analysis
+- Crypto threat monitoring
+- Community-driven security
+
+## Current Focus
+
+Building production-grade:
+- Security infrastructure
+- Crypto risk analysis systems
+- AI-enhanced security tools
+- Trading systems
+- Browser protection solutions
+
+## Tech Stack
+
+Python • FastAPI • APIs • Automation • Security Systems • AI Tools • Crypto Infrastructure
+
+## Philosophy
+
+Build real systems.  
+Focus on production architecture, usability and security.
