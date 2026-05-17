@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=NOYTRIX+Founder;Cybersecurity+Engineer;Threat+Intelligence+Systems;Crypto+Security+Infrastructure;AI-Assisted+Security+Tools" />
+</p>
 # Serhii Fedyna
 
 Cybersecurity engineer and founder of the NOYTRIX ecosystem.
